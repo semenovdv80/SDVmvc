@@ -31,7 +31,7 @@
             </div>
         </nav>
 </header>
-<div class="container-fluid">
+<div class="container-fluid content">
     <div class="row">
         <div class="main-content">
         @yield('index')
@@ -40,10 +40,10 @@
 </div>
 </div>
 <footer class="container-fluid">
-    <div class="copyright">
-        <div class="wrapper wrapper_copyright">
-            <p>©2018</p>
-        </div>
+    <div class="col-sm-10 text-center">
+        2018 year
+    </div>
+    <div class="col-sm-2">
     </div>
 </footer>
 <script src="/public/js/main.js"></script>

@@ -2,17 +2,38 @@
     <div class="nav-canvas">
         <ul class="nav nav-pills nav-stacked main-menu">
             <li class="accordion">
-                <a href="#"><img width="30px" src="/public/img/php.png"><span> PHP</span></a>
+                <a href="#"><img width="30px" src="#"><span> Menu 1</span></a>
                 <ul class="nav nav-pills nav-stacked main-menu">
-                    <li><a href="/php">Установка</a></li>
-                    <li><a href="/php/pear">PEAR</a></li>
+                    <li><a href="#">Section 1</a></li>
+                    <li><a href="#">Section 2</a></li>
                 </ul>
             </li>
             <li class="accordion">
-                <a href="#"><img width="30px" src="/public/img/apache.png"><span> Apache</span></a>
+                <a href="#"><img width="30px" src="#"><span> Menu 2</span></a>
                 <ul class="nav nav-pills nav-stacked main-menu">
-                    <li><a href="/apache">Установка сервера</a></li>
-                    <li><a href="/apache/config">Конфигурация</a></li>
+                    <li><a href="#">Section 1</a></li>
+                    <li><a href="#">Section 2</a></li>
+                </ul>
+            </li>
+            <li class="accordion">
+                <a href="#"><img width="30px" src="#"><span> Menu 3</span></a>
+                <ul class="nav nav-pills nav-stacked main-menu">
+                    <li><a href="#">Section 1</a></li>
+                    <li><a href="#">Section 2</a></li>
+                </ul>
+            </li>
+            <li class="accordion">
+                <a href="#"><img width="30px" src="#"><span> Menu 4</span></a>
+                <ul class="nav nav-pills nav-stacked main-menu">
+                    <li><a href="#">Section 1</a></li>
+                    <li><a href="#">Section 2</a></li>
+                </ul>
+            </li>
+            <li class="accordion">
+                <a href="#"><img width="30px" src="#"><span> Menu 5</span></a>
+                <ul class="nav nav-pills nav-stacked main-menu">
+                    <li><a href="#">Section 1</a></li>
+                    <li><a href="#">Section 2</a></li>
                 </ul>
             </li>
         </ul>

@@ -1,3 +1,7 @@
+.content {
+    min-height: calc(100vh - 100px);
+}
+
 .copyright
 {
     margin-top: 40px;
