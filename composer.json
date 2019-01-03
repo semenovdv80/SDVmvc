@@ -1,7 +1,6 @@
 {
   "name": "semenovdv80/sdvmvc",
   "description": "This is a simple MVC framework",
-  "version": "1.0.0",
   "keywords": ["mvc","framework"],
   "homepage": "http://github.com/semenovdv80/SDVmvc",
   "license": "MIT",

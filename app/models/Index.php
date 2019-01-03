@@ -2,9 +2,9 @@
 
 namespace app\models;
 
-use App\base\Model;
+use App\base\BaseModel;
 
-class Index extends Model
+class Index extends BaseModel
 {
     
 }
